@@ -1,6 +1,6 @@
 # What's new
 Using UnityCapture projects under default, URP and HDRP render pipeline.  
-All projects has tested in the 2021.3 release.
+All projects has tested in the 2021.3 release.  
 **Note: The output of the alpha channel (transparent layer) is verified in OBS**
 
 # Unity Capture 
