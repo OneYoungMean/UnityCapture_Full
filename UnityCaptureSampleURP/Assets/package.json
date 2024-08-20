@@ -1,0 +1,8 @@
+{
+  "name": "jp.maku.unity_capture_urp",
+  "author": "mao",
+  "version": "0.0.0",
+  "displayName": "UnityCaptureURP",
+  "description": "UnityCapture for URP",
+  "unity": "2022.3"
+}
