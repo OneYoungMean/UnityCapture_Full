@@ -1,7 +1,12 @@
 # What's new
 Using UnityCapture projects under default, URP and HDRP render pipeline.  
-All projects has tested in the 2021.3 release.  
+All projects has tested at the 2021.3 release.  
 **Note: The output of the alpha channel (transparent layer) is verified in OBS**
+
+
+
+https://github.com/user-attachments/assets/da62224c-cf27-42aa-a25c-38ec352cfd09
+
 
 # Unity Capture 
 
@@ -16,6 +21,8 @@ This project is based on [UnityCam by Yamen Saraiji](//github.com/mrayy/UnityCam
 improvements. It supports lag-free 1080p at 60 FPS on moderate PCs and can handle 4K resolutions on a faster PC.
 It also supports capturing multiple cameras and alpha channel (transparency) in receiving applications that
 support it (like [OBS](https://obsproject.com/)).
+**Note: OBS can't output more than 1 color in ARGB mode, which will make your HDRP output look like it doesn't have an HDR effect**
+![image](https://github.com/user-attachments/assets/0b57fa42-b755-4243-85a8-b4ed3451b73e)
 
 
 ## Installation
