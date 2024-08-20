@@ -1,0 +1,9 @@
+Library/*
+Temp/*
+UnityPackageManager/*
+obj/*
+.vscode/*
+
+*.csproj
+*.sln
+*.suo
