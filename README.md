@@ -20,7 +20,8 @@ In more simple terms, it essentially makes Unity simulate a web cam device on Wi
 This project is based on [UnityCam by Yamen Saraiji](//github.com/mrayy/UnityCam) with added features and big performance
 improvements. It supports lag-free 1080p at 60 FPS on moderate PCs and can handle 4K resolutions on a faster PC.
 It also supports capturing multiple cameras and alpha channel (transparency) in receiving applications that
-support it (like [OBS](https://obsproject.com/)).
+support it (like [OBS](https://obsproject.com/)).  
+
 **Note: OBS can't output more than 1 color in ARGB mode, which will make your HDRP output look like it doesn't have an HDR effect**
 ![image](https://github.com/user-attachments/assets/0b57fa42-b755-4243-85a8-b4ed3451b73e)
 
